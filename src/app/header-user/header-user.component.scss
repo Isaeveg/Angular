@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #eee;
+    padding: 20px;
+  }
+  ul {
+    display: flex;
+    gap: 25px;
+  }
+  a {
+    color: black;
+  }
